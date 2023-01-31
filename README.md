@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angèla Duton
 ====================================================================================================================================
 
-Developer web junior with an ambitious to continue learning.
+Developer web junior with an ambition to continue learning.
 --------
 
 En reconversion professionnelle, je suis actuellement en formation concepteur web application depuis octobre 2022 à ADA TECH SHOOL.
