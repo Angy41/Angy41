@@ -1,7 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angèla Duton
-=================================================================================================================================
-
-
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [dutonangela22@hotmail.com](mailto:dutonangela22@hotmail.com) 
 *   🤝  I'm open to collaborating on projects. 
