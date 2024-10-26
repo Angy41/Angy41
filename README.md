@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer web junior with an ambition to continue learning.
 --------
 
-En reconversion professionnelle, je suis actuellement en formation concepteur web application depuis octobre 2022 à ADA TECH SHOOL.
 
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [dutonangela22@hotmail.com](mailto:dutonangela22@hotmail.com)
